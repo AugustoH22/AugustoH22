@@ -7,15 +7,21 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e programação, com habili
 ## 🛠️ Minhas Principais Habilidades
 
 ### **Linguagens de Programação**
-- **Java**: Desenvolvimento robusto e orientado a objetos.
-- **Dart & Flutter**: Criação de aplicativos mobile e web cross-plataform.
-- **C e C++**: Desenvolvimento de software de alto desempenho.
-- **HTML, CSS e JavaScript**: Desenvolvimento web frontend moderno e responsivo.
 
-### **Frameworks e Ferramentas**
-- **Flutter**: Construção de interfaces fluidas e nativas.
-- **Versionamento Git/GitHub**: Gerenciamento de código colaborativo.
-- **Desenvolvimento Ágil**: Práticas de Scrum e Kanban.
+<div align="center">
+
+| Linguagem      | Descrição                                   |
+|----------------|---------------------------------------------|
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)       | Desenvolvimento robusto e orientado a objetos.           |
+| ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)       | Linguagem para criação de aplicativos cross-platform.     |
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)   | Framework para interfaces responsivas e nativas.          |
+| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)            | Software de alto desempenho e sistemas embarcados.       |
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)      | Programação eficiente e orientada a objetos.             |
+| ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)      | Estruturação de páginas web modernas.                    |
+| ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)        | Estilização e design responsivo para a web.              |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Adiciona interatividade e dinamismo à web.               |
+
+</div>
 
 ---
 
